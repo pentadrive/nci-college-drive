@@ -1,0 +1,25 @@
+https://moodle.ncirl.ie/my/
+
+https://drive.google.com/drive/my-drive
+
+x16382003@student.ncirl.ie
+
+
+https://moodle.ncirl.ie/mod/connecthosted/view.php?id=405
+
+NCI STUDENT PORTAL
+https://myncistudent.ncirl.ie/Pages/Default.aspx
+
+http://www.crucialp.com/web-hosting/
+
+
+
+
+git init
+
+git add *
+
+git commit -m "First Commit"
+
+git push
+

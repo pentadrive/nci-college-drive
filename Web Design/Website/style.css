@@ -1,0 +1,55 @@
+body{
+		background:  orange;
+		color: blue;
+		text-decoration: underline;
+}
+
+h1{
+	color: yellow;
+	text-decoration: underline;
+
+}
+
+h2{
+	color: blue;
+}
+
+h3 {
+color: orange;}
+
+	
+h4 {color: red;}
+
+h5{
+	color: green;
+}
+
+h3{
+    font-style: italic;s
+}
+
+div{
+	height: 300px;
+	width: 300px;
+    text-decoration: line-through;
+
+
+}
+p{
+	text-shadow: 2px 2px #ff0000;
+	
+}
+
+hr{
+	color: blue;
+}
+
+#chris {
+background: red;
+width: 200 px;
+}
+
+#dance { border-radius: 25px;
+}
+
+

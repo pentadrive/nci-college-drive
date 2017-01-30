@@ -1,0 +1,48 @@
+/*
+--Penuel Maypa---
+Web Design Week 2 .04/10/2016.
+
+*/
+	
+div.overview {
+	background:  rgba(255, 255, 255, 0.8);
+	margin: auto;
+	text-align: center;
+	
+	height: 470px;
+	width: 470px;
+	
+	border: 1px solid  white;
+	}
+
+p {
+	font-weight: 900;
+	font-size: 22px;
+	}
+	
+#quote{
+	font-style: italic;
+	font-weight: 900;
+	font-size: 22px;
+	}
+
+#me{
+	font-weight: 900;
+	font-size: 22px;	
+	}
+
+div.hypelink {
+	text-align: center;
+	font-weight: 900;
+	font-size: 120%;
+	
+	background:  rgba(255, 255, 255, 0.6);
+	margin: 0;
+	
+	height: 30px;
+	width: 470px;
+	}
+	
+a.link:hover{
+	background-color: rgba(66, 220, 244,0.5);
+	}

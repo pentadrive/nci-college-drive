@@ -1,0 +1,26 @@
+body{
+	background: grey;
+	}
+	
+	
+#wrapper
+	{
+	background: yellow;
+	width: 900px;
+	height: 800px;	
+	
+	}
+	
+#green{
+	width: 900px;
+	height: 180px;
+	background: green;
+	float: left;
+	}
+	
+#purple{
+	width: 180px;
+	height: 600px;	
+	background: purple;
+	float: left;
+	}

@@ -1,0 +1,18 @@
+p
+{
+	color: red;
+
+}
+
+span{	color: green;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+span:hover{
+	color: blue;
+}
+
+.italic{
+	font-style:italic;
+}

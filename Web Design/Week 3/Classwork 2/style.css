@@ -1,0 +1,32 @@
+
+p	{
+	font-size: 50px;
+	
+	}
+
+p.dark{
+	width: 500px;
+	height: 200px;
+	position: fixed;
+	left: 300px;
+	top: 5 px;
+	z-index:0;
+	
+	}
+p.light{
+	width: 500px;
+	height: 200px;
+	position: relative;
+	left: 200px;
+	top: 5 px;
+	background-color: blue;
+	z-index: 1;
+	
+	}
+
+p.first{
+	position: absolute;
+
+	
+	}
+	

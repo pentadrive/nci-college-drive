@@ -1,0 +1,22 @@
+body{
+	background: grey;
+	}
+#wrapper {
+	background: yellow;
+	width: 900px;
+	height: 300px;	
+	}
+	
+#green{
+	width: 250px;
+	height: 250px;	
+	background: green;
+	float: right;
+	}
+	
+#purple{
+	width: 250px;
+	height: 250px;	
+	background: purple;
+	float: left;
+	}

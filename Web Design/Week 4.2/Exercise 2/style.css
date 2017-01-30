@@ -1,0 +1,17 @@
+body{
+	background: grey;
+	}
+
+#blue{
+	width: 250px ;
+	height: 250px ;
+	background: blue;
+	float: left;
+	}	
+
+#green{
+	width: 250px;
+	height: 250px;	
+	background: green;
+	float: left;
+	}

@@ -1,0 +1,15 @@
+body{
+	background: grey;
+	}
+
+#blue{
+	width: 250px ;
+	height: 250px ;
+	background: blue;
+	}	
+
+#green{
+	width: 250px;
+	height: 250px;	
+	background: green;
+	}

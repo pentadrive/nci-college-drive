@@ -1,0 +1,77 @@
+#wrapper{
+	width: 960px;
+	height: 1000px;
+	background: yellow;
+	margin: auto;
+	}
+
+#topbar{
+	width: 100%;
+	height: 15%;
+	background: black;
+	margin: top;
+	}
+	
+#links{
+	float: right;
+	color: white;
+	}
+	
+h1{
+	color: white;	
+	}
+
+#sect1{
+	width: 100%;
+	height: 10%;
+	background: white;
+	text-align: center;
+	float: left;
+	
+	 font-size: 180%
+	}
+
+#sect2{
+	width: 100%;
+	height: 30%0%;
+	background: white;
+	text-align: center;
+	float: left;
+	}
+
+#box1{
+	float: left;
+	background: red;
+	width: 33%;
+	height: 35%;
+	}
+
+#box2{
+	float: left;
+	background:orange;
+	width: 34%;
+	height: 35%;	
+	}
+
+#box3{
+	float: left;
+	background:green;
+	width: 33%;
+	height: 35%;	
+	}
+	
+#sect3{
+	width: 100%;
+	height: 30%;
+	background: white;
+	float: left;
+	}
+
+
+#bottombar{
+	width: 100%;
+	height: 15%;
+	background: black;
+	float: left;
+	}
+	

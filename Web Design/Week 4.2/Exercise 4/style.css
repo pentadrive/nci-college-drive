@@ -1,0 +1,24 @@
+body{
+	background: grey;
+	}
+
+#blue{
+	width: 250px ;
+	height: 250px ;
+	background: blue;
+	float: right;
+	}	
+
+#green{
+	width: 250px;
+	height: 250px;	
+	background: green;
+	float: right;
+	}
+	
+#purple{
+	width: 250px;
+	height: 250px;	
+	background: purple;
+	float: right;
+	}
