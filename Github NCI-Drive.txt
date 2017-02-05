@@ -1,0 +1,9 @@
+git init
+git remote set-url origin https://github.com/pentadrive/nci-college-drive.git
+git init
+git fetch --all
+git merge --all
+git add .
+git commit -m "My Commit"
+git push -u -f
+
