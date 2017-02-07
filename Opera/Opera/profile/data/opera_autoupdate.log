@@ -1,1 +1,2 @@
-[6188:6868:0207/111050.850:75071640:ERROR:networkimpl_win.cc(206)] [AU] Failed to resolve proxy auto config. Err: 12180
+[5468:2744:0207/150927.475:32894171:ERROR:autoupdatechecker.cc(534)] Unable to create IPC!
+[5468:1304:0207/150934.039:32900734:ERROR:networkimpl_win.cc(206)] [AU] Failed to resolve proxy auto config. Err: 12180
