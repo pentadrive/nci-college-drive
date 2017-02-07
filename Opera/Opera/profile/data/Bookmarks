@@ -1,0 +1,331 @@
+{
+   "checksum": "02a43c139ae8639e08624fe7bb547c31",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13130932896023013",
+         "date_modified": "0",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "custom_root": {
+         "speedDial": {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13130932905401631",
+                  "id": "22",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "AB51E2BF-EBAE-4157-B119-6C478CE725DC",
+                     "imageData": "http://redir.opera.com/speeddials/partner/facebook",
+                     "imageDataType": "2",
+                     "imageID": "5243A22ED78411B65CDA129005121CF941D086A621B144FBC0F990740924A7C8",
+                     "imageType": "2",
+                     "partner_id": "facebook",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/facebook",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/facebook",
+                     "redirect": "1"
+                  },
+                  "name": "Facebook",
+                  "type": "url",
+                  "url": "http://www.facebook.com/"
+               }, {
+                  "date_added": "13130932905402128",
+                  "id": "23",
+                  "meta_info": {
+                     "custom_keywords": "[\"yahoo\",\"yahoo startside\",\"yahoo start side\",\"yahoo søk\",\"yahoo e-post\",\"yahoo messenger\",\"yahoo spill\",\"nyheter\",\"økonomi\",\"sport\",\"underholdning\"]",
+                     "guid": "5B9D7231-1A70-456F-8232-5856848EA215",
+                     "imageData": "http://redir.opera.com/speeddials/partner/yahoo",
+                     "imageDataType": "2",
+                     "imageID": "0E81F2EC9440D97E19A2F09F479E4E72174B44748E6210BB9DC8573D6FF4A041",
+                     "imageType": "2",
+                     "partner_id": "yahoo",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/yahoo",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/yahoo",
+                     "redirect": "1"
+                  },
+                  "name": "Yahoo!",
+                  "type": "url",
+                  "url": "http://www.yahoo.com/"
+               }, {
+                  "date_added": "13130932905402485",
+                  "id": "24",
+                  "meta_info": {
+                     "custom_keywords": "[\"video\",\"sharing\",\"camera phone\",\"video phone\",\"free\",\"upload\"]",
+                     "guid": "CAFEC238-B329-458A-B84D-74F9F6CCF4E8",
+                     "imageData": "http://redir.opera.com/speeddials/partner/youtube",
+                     "imageDataType": "2",
+                     "imageID": "45D0AA34B9346B9C1CD482F465D18E25EF796A0CE412B7CA7C86B0C2ACC9CBEE",
+                     "imageType": "2",
+                     "partner_id": "youtube",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/youtube",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/youtube",
+                     "redirect": "1"
+                  },
+                  "name": "YouTube",
+                  "type": "url",
+                  "url": "http://www.youtube.com/"
+               }, {
+                  "date_added": "13130932905402887",
+                  "id": "25",
+                  "meta_info": {
+                     "custom_keywords": "[\"hotels\",\"hostel\",\"holidays\",\"отель\",\"гостиница\",\"hotel\",\"cestovní\",\"hotely\",\"cestovné\",\"szállás\",\"utazás\",\"hoteluri\",\"concediu\",\"хотели\",\"хотел\",\"ホテル\",\"旅行\",\"podróż\",\"hotele\",\"voyage\",\"hôtel\",\"hoteles\",\"viajes\",\"vacanze\",\"albergo\",\"hoteller\",\"ferie\",\"酒店\",\"放假\",\"liburan\",\"hostels\",\"ferienmobile\",\"pousada\",\"férias\",\"lodging\",\"accommodation\",\"special offers\",\"packages\",\"specials\",\"weekend breaks\",\"city breaks\",\"deals\",\"budget\",\"cheap\",\"discount\",\"savings\"]",
+                     "guid": "9DD867D5-9290-400E-8B3B-E1F174FC773C",
+                     "imageData": "http://redir.opera.com/speeddials/partner/booking_com",
+                     "imageDataType": "2",
+                     "imageID": "1C6E16D104AEC48B14F29257CD0B71EA3BCE56115F8F2FAD4B56758FDB623988",
+                     "imageType": "2",
+                     "partner_id": "booking_com",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/booking_com",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/booking_com",
+                     "redirect": "1"
+                  },
+                  "name": "Booking.com",
+                  "type": "url",
+                  "url": "http://www.booking.com/"
+               }, {
+                  "date_added": "13130932905403325",
+                  "id": "26",
+                  "meta_info": {
+                     "custom_keywords": "[\"Amazon\",\"Amazon.com\",\"Books\",\"Online Shopping\",\"Book Store\",\"Magazine\",\"Subscription\",\"Music\",\"CDs\",\"DVDs\",\"Videos\",\"Electronics\",\"Video Games\",\"Computers\",\"Cell Phones\",\"Toys\",\"Games\",\"Apparel\",\"Accessories\",\"Shoes\",\"Jewelry\",\"Watches\",\"Office Products\",\"Sports & Outdoors\",\"Sporting Goods\",\"Baby Products\",\"Health\",\"Personal Care\",\"Beauty\",\"Home\",\"Garden\",\"Bed & Bath\",\"Furniture\",\"Tools\",\"Hardware\",\"Vacuums\",\"Outdoor Living\",\"Automotive Parts\",\"Pet Supplies\",\"Broadband\",\"DSL\"]",
+                     "guid": "AB06A65F-E55E-46BC-8463-92EEFBA4BCC5",
+                     "imageData": "http://redir.opera.com/speeddials/partner/amazon",
+                     "imageDataType": "2",
+                     "imageID": "34766F2D8F7BECB8271F8C134765B173DA8407A5F46CBFF3F2F4398F1B5A6ABA",
+                     "imageType": "2",
+                     "partner_id": "amazon",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/amazon",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/amazon",
+                     "redirect": "1"
+                  },
+                  "name": "Amazon.com",
+                  "type": "url",
+                  "url": "http://www.amazon.com/"
+               }, {
+                  "date_added": "13130932905403658",
+                  "id": "27",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "EEB937F4-1F2F-11E5-B69C-72DC61EA09BE",
+                     "imageData": "http://redir.opera.com/speeddials/partner/ebay",
+                     "imageDataType": "2",
+                     "imageID": "1F1E2F3D706796225F0DDA1D337BE6397D367263E5B297C932C0FB1EA95F1382",
+                     "imageType": "2",
+                     "partner_id": "ebay",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/ebay",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/ebay",
+                     "redirect": "1"
+                  },
+                  "name": "eBay",
+                  "type": "url",
+                  "url": "http://www.ebay.com/"
+               }, {
+                  "children": [ {
+                     "date_added": "13130932905404061",
+                     "id": "29",
+                     "meta_info": {
+                        "custom_keywords": "[\"Opera\",\"Opera Software\"]",
+                        "guid": "A724F2F7-489D-4F6A-934F-D632D12AA14E",
+                        "imageData": "http://redir.opera.com/speeddials/partner/product",
+                        "imageDataType": "2",
+                        "imageID": "399E9C81D7778AD2E47FD312A489293BC25D782C40E9BAFFA064599358DB4F69",
+                        "imageType": "2",
+                        "partner_id": "product",
+                        "partner_image_download_url": "http://redir.opera.com/speeddials/partner/product",
+                        "partner_url": "http://redir.opera.com/speeddials/partner/product",
+                        "redirect": "1"
+                     },
+                     "name": "Let's connect",
+                     "type": "url",
+                     "url": "http://www.opera.com/follow"
+                  }, {
+                     "date_added": "13130932905404430",
+                     "id": "30",
+                     "meta_info": {
+                        "custom_keywords": "[]",
+                        "guid": "38E7668C-7B67-4B35-938E-08A969D13DE6",
+                        "imageData": "http://redir.opera.com/speeddials/partner/accuweather",
+                        "imageDataType": "2",
+                        "imageID": "2A8064EBB830572D1C5043073D9BDC29E6ADBCAA559967D441AAF49250857FE4",
+                        "imageType": "2",
+                        "partner_id": "accuweather",
+                        "partner_image_download_url": "http://redir.opera.com/speeddials/partner/accuweather",
+                        "partner_url": "http://redir.opera.com/speeddials/partner/accuweather",
+                        "redirect": "1"
+                     },
+                     "name": "Accuweather",
+                     "type": "url",
+                     "url": "http://www.accuweather.com/"
+                  }, {
+                     "date_added": "13130932905404779",
+                     "id": "31",
+                     "meta_info": {
+                        "custom_keywords": "[]",
+                        "guid": "5B3FB878-500C-4359-A51F-A46FBDFE3B69",
+                        "imageData": "http://redir.opera.com/speeddials/partner/goal_com",
+                        "imageDataType": "2",
+                        "imageID": "56687295B89A6F7701DCA54CDA1E5C85924112220E9B1DE1224C52062BE7CA9C",
+                        "imageType": "2",
+                        "partner_id": "goal_com",
+                        "partner_image_download_url": "http://redir.opera.com/speeddials/partner/goal_com",
+                        "partner_url": "http://redir.opera.com/speeddials/partner/goal_com",
+                        "redirect": "1"
+                     },
+                     "name": "Goal.com",
+                     "type": "url",
+                     "url": "http://www.goal.com/"
+                  }, {
+                     "date_added": "13130932905405154",
+                     "id": "32",
+                     "meta_info": {
+                        "custom_keywords": "[\"Wikipedia\",\"Encyclopedia\"]",
+                        "guid": "7D5B0A1D-C8CF-488E-BD7C-45F044D1CA94",
+                        "imageData": "http://redir.opera.com/speeddials/partner/wikipedia_org",
+                        "imageDataType": "2",
+                        "imageID": "49B1200B64B853A45BA0FCD595A8A9001A4A3B3AF113C17B347015B3FFC166D6",
+                        "imageType": "2",
+                        "partner_id": "wikipedia_org",
+                        "partner_image_download_url": "http://redir.opera.com/speeddials/partner/wikipedia_org",
+                        "partner_url": "http://redir.opera.com/speeddials/partner/wikipedia_org",
+                        "redirect": "1"
+                     },
+                     "name": "Wikipedia",
+                     "type": "url",
+                     "url": "http://www.wikipedia.org/"
+                  }, {
+                     "date_added": "13130932905405531",
+                     "id": "33",
+                     "meta_info": {
+                        "custom_keywords": "[]",
+                        "guid": "CA1F7411-3A6B-4052-8537-FF88478A0158",
+                        "imageData": "http://redir.opera.com/speeddials/partner/twitter",
+                        "imageDataType": "2",
+                        "imageID": "EECC566C3CCD2ACDC6F3F12FE1FD9C7D268DA3F0D8899C1E60CE1A27EFEC7F6C",
+                        "imageType": "2",
+                        "partner_id": "twitter",
+                        "partner_image_download_url": "http://redir.opera.com/speeddials/partner/twitter",
+                        "partner_url": "http://redir.opera.com/speeddials/partner/twitter",
+                        "redirect": "1"
+                     },
+                     "name": "Twitter",
+                     "type": "url",
+                     "url": "http://www.twitter.com/"
+                  }, {
+                     "date_added": "13130932905405849",
+                     "id": "34",
+                     "meta_info": {
+                        "custom_keywords": "[]",
+                        "guid": "22DBAD30-FD6D-11E4-B98C-116CB664A5DC",
+                        "imageData": "http://redir.opera.com/speeddials/partner/aliexpress_com",
+                        "imageDataType": "2",
+                        "imageID": "F885B4060044588AC297096E89EBFD7478D864B8DF37764E601EDCDCD0CF9F23",
+                        "imageType": "2",
+                        "partner_id": "aliexpress_com",
+                        "partner_image_download_url": "http://redir.opera.com/speeddials/partner/aliexpress_com",
+                        "partner_url": "http://redir.opera.com/speeddials/partner/aliexpress_com",
+                        "redirect": "1"
+                     },
+                     "name": "AliExpress",
+                     "type": "url",
+                     "url": "http://aliexpress.com/"
+                  } ],
+                  "date_added": "13130932905403925",
+                  "date_modified": "13130932905405849",
+                  "id": "28",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "0AD9928A-5039-4B35-B89F-450D2A7089A8",
+                     "partner_id": "",
+                     "partner_image_download_url": "",
+                     "partner_url": "",
+                     "redirect": "0"
+                  },
+                  "name": "",
+                  "type": "folder"
+               } ],
+               "date_added": "13130932898290475",
+               "date_modified": "13130932905403658",
+               "id": "8",
+               "meta_info": {
+                  "speed_dial_root_folder_guid": "d2537249-66b8-4a6a-b8c4-3711d59825af"
+               },
+               "name": "DESKTOP-1JNNV41",
+               "type": "folder"
+            } ],
+            "date_added": "13130932898289920",
+            "date_modified": "0",
+            "id": "6",
+            "name": "Speed Dial",
+            "type": "folder"
+         },
+         "trash": {
+            "children": [  ],
+            "date_added": "13130932898289921",
+            "date_modified": "0",
+            "id": "7",
+            "name": "Bin",
+            "type": "folder"
+         },
+         "unsorted": {
+            "children": [  ],
+            "date_added": "13130932898289913",
+            "date_modified": "0",
+            "id": "4",
+            "name": "Unsorted Bookmarks",
+            "type": "folder"
+         },
+         "userRoot": {
+            "children": [ {
+               "date_added": "13130933237293339",
+               "id": "36",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "5A701C9BD788204CCA1452296F0FF6F03BA63054F12CC0F1B61CEF6C4D04BF96",
+                  "imageIdentifier": "1f6d7a40",
+                  "imageType": "2",
+                  "last_visited_desktop": "13130933237294603"
+               },
+               "name": "NCI Computing 2016 - Google Drive",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/0B1OdvJ56Fo7ZZzVLOW5uWWw2elU"
+            }, {
+               "date_added": "13130933113769744",
+               "id": "35",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "14DA1DBECA0F5D979BDCDC420C02FC3FD2E0658B041CDA67AE1095166FA156DC",
+                  "imageIdentifier": "058af2bb",
+                  "imageType": "2",
+                  "last_visited_desktop": "13130933251384407"
+               },
+               "name": "Dashboard",
+               "type": "url",
+               "url": "https://moodle.ncirl.ie/my/"
+            } ],
+            "date_added": "13130932898289918",
+            "date_modified": "13130933237293339",
+            "id": "5",
+            "name": "My Folders",
+            "type": "folder"
+         }
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13130932896023068",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13130932896023073",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

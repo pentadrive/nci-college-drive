@@ -1,0 +1,96 @@
+// gJRW8d2noeaURtjB+r+Eut/tJUtzfFmdMfd4Jprs+MDuLRWOUBHtdim07TwgZBfQq2U9jGPSkYhcWMMfVUPRxXluZ+DIhsshwaDznR/AUTxjt62zYIJNdiNBvj0reZH9Zd3Db4QB7T14ecD0tTVxdnx6xAt92bvOvYUrjtRceMhIUBFgyCD8c0gCxWQuU+Zu+VpT9yjvIfwyBz5dw/gPz9wnp/TxF8UUx56ytYxMy4xa5wlljLN04yAmt3sRa7cOPP20eNppmcrKGlJ+yunK0vEFrLoI512rrwwnhr7yAi1Vd2k4m9A/IbHzmRhOR+zXyj18F067BGMVglC047R6rQ==
+{
+    "@encoding": "UTF-8",
+    "@version": "1.0",
+    "preferences": {
+        "config": {
+            "useragent": [{
+                "@value": "Mozilla/5.0 ($PLATFORM) AppleWebKit/537.36 (KHTML, like Gecko) $CHR Safari/537.36",
+                "@id": "35"
+            }]
+        },
+        "@clean_all": "1",
+        "host": [{
+            "@name": "gyao.yahoo.co.jp",
+            "section": {
+                "@name": "User Agent",
+                "pref": {
+                    "@value": "35",
+                    "@name": "Spoof UserAgent ID"
+                }
+            }
+        }, {
+            "@name": "hangouts.google.com",
+            "section": {
+                "@name": "User Agent",
+                "pref": {
+                    "@value": "35",
+                    "@name": "Spoof UserAgent ID"
+                }
+            }
+        }, {
+            "@name": "amazon.com",
+            "section": {
+                "@name": "User Agent",
+                "pref": {
+                    "@value": "35",
+                    "@name": "Spoof UserAgent ID"
+                }
+            }
+        }, {
+            "@name": "gamespot.com",
+            "section": {
+                "@name": "User Agent",
+                "pref": {
+                    "@value": "35",
+                    "@name": "Spoof UserAgent ID"
+                }
+            }
+        }, {
+            "@name": "zdnet.com",
+            "section": {
+                "@name": "User Agent",
+                "pref": {
+                    "@value": "35",
+                    "@name": "Spoof UserAgent ID"
+                }
+            }
+        }, {
+            "@name": "giantbomb.com",
+            "section": {
+                "@name": "User Agent",
+                "pref": {
+                    "@value": "35",
+                    "@name": "Spoof UserAgent ID"
+                }
+            }
+        }, {
+            "@name": "tvguide.com",
+            "section": {
+                "@name": "User Agent",
+                "pref": {
+                    "@value": "35",
+                    "@name": "Spoof UserAgent ID"
+                }
+            }
+        }, {
+            "@name": "cnet.com",
+            "section": {
+                "@name": "User Agent",
+                "pref": {
+                    "@value": "35",
+                    "@name": "Spoof UserAgent ID"
+                }
+            }
+        }, {
+            "@name": "techrepublic.com",
+            "section": {
+                "@name": "User Agent",
+                "pref": {
+                    "@value": "35",
+                    "@name": "Spoof UserAgent ID"
+                }
+            }
+        }]
+    }
+}
